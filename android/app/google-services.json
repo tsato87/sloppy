@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070186566847",
+    "project_id": "sloppy-404907",
+    "storage_bucket": "sloppy-404907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070186566847:android:9001751350f26ea93f220a",
+        "android_client_info": {
+          "package_name": "com.example.sloppy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwHnnBXnSykrGrIqaM7bUfQCgDtCrI7eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
